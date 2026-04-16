@@ -34,7 +34,7 @@ sage -n jupyter
 ```
 
 Alternatively, install the Sage kernel in an existing Jupyter
-environment.
+environment. The kernel in the notebook will be visible as **SageMath 10.7 (sage)**.
 
 Python packages used:
 
@@ -45,7 +45,7 @@ Python packages used:
 
 # How to Run
 
-1.  Open the desired notebook in a SageMath-enabled Jupyter environment.
+1.  Open the notebook in a SageMath-enabled Jupyter environment.
 
 2.  **Define the spacetime metric in the first cell.**
 
