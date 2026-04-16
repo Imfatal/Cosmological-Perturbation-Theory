@@ -10,12 +10,12 @@ equations** for cosmological spacetimes.
 This repository is intended as a **symbolic tool for studying
 cosmological perturbations in General Relativity**.
 
-The repository currently contains two notebooks:
+The repository currently contains one notebook:
 
 -   **metric_calc_cartesian.ipynb** -- calculations for a flat spacetime
     using the **Cartesian coordinate system**.
--   **metric_calc_spherical.ipynb** -- calculations for a non-flat
-    spacetime using the **spherical coordinate system**.
+    
+Another notebook using the spherical coordinate system for a non-flat spacetime metric shall be added later.
 
 ------------------------------------------------------------------------
 
